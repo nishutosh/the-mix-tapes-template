@@ -21,6 +21,7 @@ div.first{
 color: whitesmoke;
 font-size: 21px;
     font-weight: 700;
+  
 font-family: Open Sans;
 margin: auto;
 width: 171px;
@@ -30,7 +31,7 @@ text-align: center;
    
 }
 div.second{
-   height: 100vh;
+   height: 106vh;
     
 }
 #head{  
@@ -42,6 +43,13 @@ font-family: Open Sans;
         
         
     }
+#head1{
+  font-weight: 800;
+text-align: center;
+margin: 8% 0px 2%;
+font-size: 50px;
+font-family: Open Sans;
+}
 
 .text{
     font-size: 20px;
@@ -52,7 +60,7 @@ font-family: Open Sans;
 .third{
     background-color: black;
     color: white;
-    height: 100vh;
+    height: 106vh;
 }
 .socialbox{
     color: white;
@@ -93,13 +101,14 @@ font-family: Open Sans;
 }
 .footer{
     padding: 5% 5% 5% 5%;
-    background-color: whitesmoke;
+    background-color: #0f0f0f;
+color: #3b3b3b;
 }
 #flogo{
     font-family: Open Sans;
     font-size: 24px;
     font-weight: bolder;
-   
+   margin:0px;
 }
 
 #flogor{
