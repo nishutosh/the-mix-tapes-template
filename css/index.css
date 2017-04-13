@@ -28,11 +28,11 @@ div.first {
   padding: 10px;
   text-align: center; }
 
-/* line 32, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 33, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 div.second {
-  height: 100vh; }
+  height: 106vh; }
 
-/* line 36, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 37, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 #head {
   font-weight: 800;
   text-align: center;
@@ -41,19 +41,27 @@ div.second {
   font-family: Open Sans; }
 
 /* line 46, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+#head1 {
+  font-weight: 800;
+  text-align: center;
+  margin: 8% 0px 2%;
+  font-size: 50px;
+  font-family: Open Sans; }
+
+/* line 54, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .text, .text1 {
   font-size: 20px;
   text-align: center;
   margin: auto 10%;
   margin-bottom: 14%; }
 
-/* line 52, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 60, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .third {
   background-color: black;
   color: white;
-  height: 100vh; }
+  height: 106vh; }
 
-/* line 57, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 65, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .socialbox {
   color: white;
   font-size: 20px;
@@ -62,7 +70,7 @@ div.second {
   margin: auto;
   text-align: center; }
 
-/* line 66, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 74, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .social {
   display: inline-block;
   margin: 4%;
@@ -72,50 +80,52 @@ div.second {
   padding: 2%;
   cursor: pointer; }
 
-/* line 76, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 84, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .text1 {
   margin-bottom: 4%;
   margin-top: 3%; }
 
-/* line 81, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 89, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .you:hover {
   background-color: tomato;
   color: white; }
 
-/* line 85, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 93, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .fb:hover {
   background-color: steelblue;
   color: white; }
 
-/* line 90, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 98, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .twi:hover {
   background-color: #01b0b0;
   color: white; }
 
-/* line 94, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 102, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 .footer {
   padding: 5% 5% 5% 5%;
-  background-color: whitesmoke; }
+  background-color: #0f0f0f;
+  color: #3b3b3b; }
 
-/* line 98, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 107, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 #flogo {
   font-family: Open Sans;
   font-size: 24px;
-  font-weight: bolder; }
+  font-weight: bolder;
+  margin: 0px; }
 
-/* line 105, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 114, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 #flogor {
   font-family: Open Sans;
   font-size: 15px;
   font-weight: bolder;
   margin: 0; }
 
-/* line 111, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 120, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 #con {
   font-family: Open Sans;
   margin: 0px; }
 
-/* line 115, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
+/* line 124, C:/Users/Nishutosh Sharma/Desktop/new/css/index.scss */
 #dnd {
   font-size: 12px;
   margin: 0% 0% 0% 0%;

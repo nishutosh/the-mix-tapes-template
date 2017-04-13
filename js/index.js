@@ -1,12 +1,3 @@
-$(document).ready(function(){
-                            
-    $("#tagbox").click(function(){
-        
-        $(".second").fadeIn("slow");
-      
-        
-        
-    })                        
-                            
-                            
-                            })
+  $(document).ready(function(){  
+      alert("fk");  
+};
